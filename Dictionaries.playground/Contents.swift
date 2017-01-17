@@ -69,4 +69,5 @@ let movies = [
 
 for (franchise, titles) in movies {
     print("There are \(titles.count) movies in the \(franchise) series")
+    
 }
