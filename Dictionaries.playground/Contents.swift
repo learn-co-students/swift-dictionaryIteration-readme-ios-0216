@@ -24,9 +24,6 @@ for (airportCode, airportName) in airports {
     print("The abbreviation for \(airportName) is \(airportCode)")
 }
 
-
-
-
 let toyStoryFilms = [
     "Toy Story",
     "Toy Story 2",
@@ -68,5 +65,7 @@ let movies = [
 ]
 
 for (franchise, titles) in movies {
-    print("There are \(titles.count) movies in the \(franchise) series")
+    print("There are \(titles.count) movies in the \(franchise) series.")
 }
+
+// Unlike arrays, iterating in dictionaries mean you dont have to use .enumerate
