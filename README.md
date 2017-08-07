@@ -10,7 +10,7 @@ In this lesson we'll use looping to iterate over dictionaries.
 
 ## Learning Objectives
 
-* Retrieve values from a dictonary given a key
+* Retrieve values from a dictionary given a key
 * Iterate over the elements in a dictionary
 * Recognize that a dictionary's keys need not be the same type as its values
 * Store arrays as values in a dictionary 
